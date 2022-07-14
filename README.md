@@ -1,4 +1,4 @@
-# Web-Security-Research
+# Web Security Research Blogs
 Collection of web application security research blogs that I've found useful
 
 - https://skeletonscribe.net
